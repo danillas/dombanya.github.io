@@ -1,0 +1,1070 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"Ro",
+				"Roboto-Bold"
+			],
+			[
+				"te",
+				"text-color"
+			],
+			[
+				"block",
+				"block-title"
+			],
+			[
+				"ta",
+				"ta:l	text-align:left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"BG",
+				"background"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"pro",
+				"process-wrapper"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"bgp",
+				"bgp	background-position"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"H",
+				"Heading-Pro-Bold"
+			],
+			[
+				"tex",
+				"text-color"
+			],
+			[
+				"text",
+				"text-color"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"ser",
+				"services-content"
+			],
+			[
+				"ip",
+				"ipad"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ca",
+				"catalog-item"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"d",
+				"d:ib	display:inline-block"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"table",
+				"table-layout"
+			],
+			[
+				"tac",
+				"ta:c	text-align:center"
+			],
+			[
+				"fw",
+				"fw:b	font-weight:bold"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"top",
+				"top-heading"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"R",
+				"RobotoRegular"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"textt",
+				"text-transform"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"bgr",
+				"bgr:n	background-repeat:no-repeat"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"al",
+				"allbz"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"head",
+				"head-text"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wof",
+				"woff2"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"v",
+				"va	vertical-align"
+			],
+			[
+				"mh",
+				"mih	min-height"
+			],
+			[
+				"bt",
+				"btn-color"
+			],
+			[
+				"fon",
+				"font-face"
+			],
+			[
+				"cu",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"sl",
+				"slides"
+			],
+			[
+				"c",
+				"click	.click()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"req",
+				"reqCssPosition"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"co",
+				"copyright"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mai",
+				"main-color"
+			],
+			[
+				"s",
+				"socials"
+			],
+			[
+				"price",
+				"price-card"
+			],
+			[
+				"thi",
+				"thin"
+			],
+			[
+				"pric",
+				"price-card"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"foote",
+				"footer-form"
+			],
+			[
+				"hea",
+				"heading-white"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"main",
+				"main-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"bgs",
+				"background-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"max-h",
+				"max-height"
+			],
+			[
+				"r",
+				"review1"
+			],
+			[
+				"td",
+				"te-dt	text-emphasis: dot;"
+			],
+			[
+				"foo",
+				"footer"
+			],
+			[
+				"p-",
+				"pos-a	position: absolute;"
+			],
+			[
+				"bg-i",
+				"background-image"
+			],
+			[
+				"slider",
+				"slider4"
+			],
+			[
+				"bx",
+				"bxSlider"
+			],
+			[
+				"modal",
+				"modal-header"
+			],
+			[
+				"j",
+				"justify"
+			],
+			[
+				"mod",
+				"modal-title"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mg",
+				"margin-bottom"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"footer",
+				"footer-wrap"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"moda",
+				"modal-dialog"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bx-controls-",
+				"bx-controls-direction"
+			],
+			[
+				"bx-",
+				"bx-controls"
+			],
+			[
+				"bi",
+				"background-image"
+			],
+			[
+				"bg",
+				"bgi	background-image: url(${0});"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"f",
+				"fw	font-weight"
+			],
+			[
+				"li",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/main.sass",
+			"settings":
+			{
+				"buffer_size": 9260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/common.js",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/docs/dom/dombanya/js/common.js",
+		"/C/xampp/htdocs/docs/bravo/libs/bootstrap/css/bootstrap-grid.min.css",
+		"/C/xampp/htdocs/docs/dom/dombanya/index.html",
+		"/C/xampp/htdocs/docs/bravo/sass/fonts.sass",
+		"/C/xampp/htdocs/docs/pugovitsa-spb.ru/index.html",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510676699/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/css/main.css",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510666684/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/css/main.css",
+		"/C/xampp/htdocs/docs/bravo/css/fonts.css",
+		"/C/xampp/htdocs/docs/bravo/sass/main.sass",
+		"/C/xampp/htdocs/docs/bravo/index.html",
+		"/C/xampp/htdocs/docs/bravo/css/main.css",
+		"/C/xampp/htdocs/docs/dom/dombanya/sass/main.sass",
+		"/C/xampp/htdocs/docs/bravo/js/common.js",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510484351/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/js/common.js",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510482729/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/front-page.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510482756/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/css/main.css",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/ipochinuy/front-page.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/header.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/front-page.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/page-blog.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/page-news.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/template-parts/content-postlist.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/css/main.css",
+		"/D/Верстка исходники/common.js",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510318880/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/css/main.css",
+		"/C/xampp/htdocs/docs/wp/wp-includes/link-template.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/functions.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/footer.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/style.css",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/single.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/page-static-text.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/js/common.js",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/ipochinuy/page.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/plugins/categories-images/categories-images.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/inc/template-functions.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/inc/template-tags.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510315041/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/css/main.css",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/page-catalog.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/ipochinuy/template-parts/content-postlist.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510163579/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/inc/template-tags.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510164169/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/functions.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/page.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/template-parts/content-page.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510166207/triumph/domains/triumph-company.ru/public_html/wp-content/themes/triumph/header.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510165491/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/template-parts/content-page.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510164598/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/sidebar.php",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/sidebar.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510162818/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/page-blog.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510164457/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/template-parts/content-postlist.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510163724/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510163540/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/sidebar.php",
+		"/C/xampp/htdocs/docs/poligr/delivery.html",
+		"/C/xampp/htdocs/docs/poligr/index.html",
+		"/D/ШАблоны/themeforest-11081709-rosetta-multipurpose-html-template/html/assets/js/jquery.ui.effect.min.js",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/obra-de-arte/index.php",
+		"/C/xampp/htdocs/docs/poligr/css/main.css",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510067730/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510067468/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/functions.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1510066743/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509967726/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/page-order-new.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509967088/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header-1.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509967074/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509966388/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header-2.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509966198/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/mail-services.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509966143/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/js/common.js",
+		"/C/xampp/htdocs/docs/wp/wp-content/themes/ipochinuy/mail-services.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509967669/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/page-order.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509960944/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/js/common.js",
+		"/C/xampp/htdocs/docs/poligr/index/css/main.css",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509959663/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/mail.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509959765/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/mail-services.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509959693/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/js/common.js",
+		"/D/Программы/Sublime Text 2.0.2/Data/Packages/User/sftp_servers/pugovitsa",
+		"/D/Программы/Sublime Text 2.0.2/Data/Packages/User/Sass.sublime-settings",
+		"/C/xampp/htdocs/docs/triumph/about.html",
+		"/C/xampp/htdocs/docs/triumph/uslugi.html",
+		"/C/xampp/htdocs/docs/triumph/index.html",
+		"/C/xampp/htdocs/docs/triumph/sass/main.sass",
+		"/C/xampp/htdocs/docs/triumph/sass/_header.sass",
+		"/C/xampp/htdocs/docs/triumph/sass/_footer.sass",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509888821/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/js/common.js",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509885533/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/header-1.php",
+		"/C/users/work/appdata/local/temp/sublime-sftp-browse-1509886282/pugovitsa/ipochinyu.ru/public_html/wp-content/themes/ipochinyu/front-page.php",
+		"/C/xampp/htdocs/docs/agency/css/main.sass",
+		"/C/xampp/htdocs/docs/triumph/sass/_page.sass",
+		"/C/xampp/htdocs/docs/triumph/price.html",
+		"/C/xampp/htdocs/docs/triumph/libs/bootstrap/css/bootstrap-table.min.css",
+		"/C/Users/Work/AppData/Local/Temp/Temp1_bootstrap.zip/css/bootstrap.css",
+		"/C/Users/Work/AppData/Local/Temp/824_3309/manifest.json",
+		"/D/Программы/Sublime Text 2.0.2/Data/Packages/SASS Build/SASS.sublime-build",
+		"/D/Программы/Sublime Text 2.0.2/Data/Packages/SASS Build/package-metadata.json",
+		"/C/xampp/htdocs/docs/triumph/sass/.sassbuilder-config",
+		"/D/Программы/Sublime Text 2.0.2/Data/Packages/SASS Build/readme.md",
+		"/C/xampp/htdocs/docs/triumph/sass/main.css",
+		"/C/xampp/htdocs/docs/triumph/sass/.sassbuilder-config.json",
+		"/C/xampp/htdocs/docs/triumph/sass/_.sassbuilder-config",
+		"/C/xampp/htdocs/docs/triumph/.sassbuilder-config.json",
+		"/C/xampp/htdocs/docs/triumph/sass/_main.sass",
+		"/C/xampp/htdocs/docs/triumph/sass/media.sass",
+		"/C/xampp/htdocs/docs/triumph/css/_main.sass",
+		"/C/xampp/htdocs/docs/triumph/css/sftp-config.json",
+		"/C/xampp/htdocs/docs/triumph/triumph.sublime-project",
+		"/C/xampp/htdocs/docs/agency/css/main.css",
+		"/C/xampp/htdocs/docs/agency/libs/waypoints/waypoints.min.js",
+		"/C/xampp/htdocs/docs/agency/img/1.jpg",
+		"/C/Users/Work/Pictures/На сайт/student-849825.jpg",
+		"/C/xampp/htdocs/docs/agency/index.html",
+		"/C/xampp/htdocs/docs/land/js/common.js",
+		"/C/xampp/htdocs/docs/1/assets/js/main.js",
+		"/C/xampp/htdocs/docs/1/assets/css/main.css",
+		"/C/xampp/htdocs/docs/1/index.html",
+		"/C/xampp/htdocs/docs/1/assets/sass/layout/_menu.scss",
+		"/C/xampp/htdocs/docs/1/assets/sass/main.scss",
+		"/D/Верстка исходники/SlidePushMenus/SlidePushMenus/css/default.css",
+		"/D/Верстка исходники/SlidePushMenus/SlidePushMenus/js/classie.js",
+		"/D/Верстка исходники/SlidePushMenus/SlidePushMenus/index.html",
+		"/C/Users/Work/Desktop/Продажи/Авито/Новый текстовый документ.txt",
+		"/C/xampp/htdocs/docs/downloader/myDownloads_readme.txt",
+		"/C/xampp/htdocs/docs/land/index.html",
+		"/C/xampp/htdocs/docs/agency/css/hamburgers.min.css",
+		"/D/Верстка исходники/hamburgers-master/hamburgers-master/_sass/hamburgers/hamburgers.scss",
+		"/D/Верстка исходники/hamburgers-master/hamburgers-master/dist/hamburgers.css",
+		"/C/xampp/htdocs/docs/agency/js/common.js",
+		"/C/xampp/htdocs/docs/agency/libs/slick/slick-theme.css",
+		"/C/xampp/htdocs/docs/podbor/index.html",
+		"/C/xampp/htdocs/docs/agency/libs/slick/slick.css",
+		"/C/xampp/htdocs/docs/podbor/js/common.js",
+		"/C/xampp/htdocs/docs/podbor/css/main.sass"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hr",
+			"body",
+			";",
+			"a{",
+			"a",
+			"a ",
+			"active",
+			"services",
+			"tog",
+			"toogle",
+			"id=\"i",
+			"footer",
+			"type",
+			"pagina",
+			"button",
+			"sm",
+			"16px",
+			"\n<",
+			"vert",
+			">",
+			"000",
+			"sec",
+			"hr",
+			"4",
+			"6",
+			"number",
+			"tr",
+			"inner",
+			"sect",
+			"menu",
+			"vis",
+			"is-me",
+			"is-menu",
+			"background-color",
+			"of",
+			"ofset",
+			"order",
+			"300",
+			"opens",
+			"72px",
+			"color",
+			"place",
+			"cd-labe",
+			"icon",
+			"90px",
+			"p",
+			"з",
+			"col-",
+			"container",
+			"col-",
+			"gutter",
+			"none",
+			"footer",
+			"dost",
+			"widget",
+			"vk",
+			"mail",
+			"info",
+			"$t",
+			"санкт",
+			"350-4",
+			"#u350-4",
+			"#u350",
+			"#u4267",
+			"\">",
+			"body",
+			"absol",
+			"butto",
+			"modal",
+			"heading",
+			".marg",
+			"hover",
+			"heading",
+			"transf",
+			"\n}",
+			"coo",
+			"info",
+			".second-c",
+			"border",
+			"=\n",
+			"/*",
+			"h4",
+			"text",
+			"dops",
+			"revi",
+			"underl",
+			"a",
+			"href",
+			"dops",
+			"ul",
+			"background-s",
+			"contain",
+			"back",
+			"bav",
+			"partn",
+			"revi",
+			"adv",
+			"even",
+			"adva",
+			"wrap",
+			"work",
+			"%;\n",
+			"wrap",
+			"wrap-conte",
+			"wrap-content",
+			"about-us p",
+			"center",
+			"about-us p",
+			"КДК",
+			";\n",
+			"h1",
+			"heading",
+			"footer",
+			"part",
+			"top-container",
+			"head",
+			"nav a",
+			"right-t",
+			"right-op",
+			"about",
+			"box",
+			"bxsl",
+			"controls",
+			"1.png",
+			"1.pn",
+			"slide",
+			"slide p",
+			"review"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/main.sass",
+					"settings":
+					{
+						"buffer_size": 9260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2269,
+								2269
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1544.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 12440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1953,
+								1953
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 457.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/common.js",
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1268,
+								1268
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 245.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.96875,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.sftp":
+	{
+		"height": 29.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"fonts/MaterialIcons/MaterialIcons-Regular.ijmap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}
