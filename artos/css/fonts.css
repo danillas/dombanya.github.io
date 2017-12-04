@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto/RobotoRegular.woff") format("woff"), url("../fonts/Roboto/RobotoRegular.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoMedium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "MadeArtist";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/madetheartistsans/madetheartistsans.woff2") format("woff2"), url("../fonts/madetheartistsans/madetheartistsans.woff") format("woff"), url("../fonts/madetheartistsans/madetheartistsans.ttf") format("truetype"); }
+
+/*# sourceMappingURL=fonts.css.map */
