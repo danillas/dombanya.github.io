@@ -1,0 +1,119 @@
+/*==========  Desktop First Method  ========== */
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  /* */ }
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  /* */ }
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  /*Disable Animation on Mobile Devices */
+  .animated {
+    /*CSS transitions */
+    -o-transition-property: none !important;
+    -moz-transition-property: none !important;
+    -ms-transition-property: none !important;
+    -webkit-transition-property: none !important;
+    transition-property: none !important;
+    /*CSS transforms */
+    -o-transform: none !important;
+    -moz-transform: none !important;
+    -ms-transform: none !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+    /*CSS animations */
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important; }
+
+  .back-1:after,
+  .back-2:after {
+    opacity: 0.5; }
+
+  .modal-backdrop {
+    background: black; } }
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 14px; }
+
+  header {
+    height: 100%; }
+
+  section,
+  footer {
+    padding: 45px 0; }
+
+  .heading .phone-number {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    float: none; }
+  .heading .logo img {
+    margin: 0 auto; }
+
+  .owl-carousel {
+    background-image: none; }
+    .owl-carousel .btn, .owl-carousel .btn:hover, .owl-carousel .btn:active, .owl-carousel .btn:focus {
+      margin-top: 20px !important; }
+
+  div.owl--text {
+    left: 0px;
+    font-size: 14px;
+    width: 100%; }
+    div.owl--text h1 {
+      line-height: 1.1;
+      font-size: 2em; }
+
+  .owl-nav {
+    top: 90%; }
+
+  .advantages-wrapper {
+    padding: 45px 0px 0px; }
+
+  .advantages-item {
+    margin-bottom: 30px;
+    text-align: left; }
+
+  .advantages-text {
+    font-size: 1em; }
+
+  .portfolio {
+    padding: 35px 0; }
+
+  .filter div {
+    margin-bottom: 15px; }
+
+  .reviews .owl-item {
+    display: block; }
+  .reviews .owl--text {
+    display: block;
+    position: relative;
+    left: 0;
+    padding: 15px; }
+  .reviews .owl-img img {
+    display: block;
+    position: relative; }
+
+  footer .headline,
+  .contact-item {
+    margin-bottom: 1em; }
+
+  .zoomed-item .modal-dialog {
+    width: 100%;
+    margin: 30px 0px; }
+  .zoomed-item .modal-body {
+    padding: 10px; }
+  .zoomed-item .modal-header {
+    padding: 0px !important; }
+    .zoomed-item .modal-header .close {
+      top: 10px; }
+  .zoomed-item .modal-content {
+    padding: 0px; } }
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+  /* */ }
+
+/*# sourceMappingURL=media.css.map */
