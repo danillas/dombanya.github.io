@@ -76,7 +76,7 @@
 					<img src="img/@1x/step-2.svg" alt="">
 				</div>
 				<div class="col-12 col-md-3 steps-item"><h2>Шаг 3</h2>
-					<p>Один миг и ваше устройство отремонтировано</b></p>
+					<p>Один миг и ваше устройство отремонтировано</p>
 					<img src="img/@1x/step-3.svg" alt="">
 				</div>
 			</div>
@@ -597,7 +597,7 @@
 		<div class="container">
 			<div class="headline">Остались вопросы?</div>
 			<p>Звоните:</p>
-			<a href="#" cass="tel">+7 999 111 222 33</a>
+			<a href="#" class="tel">+7 999 111 222 33</a>
 			<p>или пишите</p>
 
 			<div class="row justify-content-center">
@@ -621,9 +621,8 @@
         });
 });
 	</script>
-</body>
 
-<div class="formModal fade" id="mainModal" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="formModal fade" id="mainModal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
@@ -638,15 +637,15 @@
                            
                              <p>Мы перезвоним Вам в течение часа</p>
                             
-                            <form action="" class="formModal-wrap"> 
+                            <form action="1.php" class="formModal-wrap"> 
 								<div class="col-12"><input type="text" name="username" placeholder="Ваше имя" pattern="[А-Яа-яЁё\s]+$" maxlength="30" minlength="3"></div>
-								<div class="col-12"><input type="tel" name="phone-number" placeholder="Телефон" reauired></div>
+								<div class="col-12"><input type="tel" name="phone-number" placeholder="Телефон" required></div>
 								<div class="col-12"><button>Оставить заявку</button></div>
 	</form>
       </div>
     </div>
   </div>
 </div>
-
+</body>
 
 </html>

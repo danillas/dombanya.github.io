@@ -160,6 +160,9 @@ nav li{
   font-size: 50px;
   line-height: 1;
   text-transform: uppercase; }
+.banner h1 span{
+  color: #5eadc6;
+}
 .action form button,
 .banner a.button{
   display: block;
