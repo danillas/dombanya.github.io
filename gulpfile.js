@@ -23,8 +23,8 @@ const del = require("del");
 function browsersync() {
     browserSync.init({
         server: {
-            baseDir: "app/",
-            middleware: bssi({ baseDir: "app/", ext: ".html" }),
+            baseDir: "./",
+            middleware: bssi({ baseDir: "./", ext: ".html" }),
         },
         ghostMode: { clicks: false },
         notify: false,
@@ -78,7 +78,7 @@ function styles() {
             })
         )
         .pipe(rename({ suffix: ".min" }))
-        .pipe(dest("app/css"))
+        .pipe(dest("app/dist/css"))
         .pipe(browserSync.stream());
 }
 
@@ -92,18 +92,13 @@ function images() {
 
 function buildcopy() {
     return src(
-        [
-            "{app/js,app/css}/*.min.*",
-            "app/images/**/*.*",
-            "!app/images/src/**/*",
-            "app/fonts/**/*",
-        ],
+        ["app/images/**/*.*", "!app/images/src/**/*", "app/fonts/**/*"],
         { base: "app/" }
-    ).pipe(dest("dist"));
+    ).pipe(dest("app/dist"));
 }
 
 async function buildhtml() {
-    let includes = new ssi("app/", "dist/", "/**/*.html");
+    let includes = new ssi("app/", "./", "/**/*.html");
     includes.compile();
     del("dist/parts", { force: true });
 }
@@ -143,7 +138,7 @@ function startwatch() {
         { usePolling: true },
         images
     );
-    watch(`app/**/*.{${fileswatch}}`, { usePolling: true }).on(
+    watch(`./**/*.{${fileswatch}}`, { usePolling: true }).on(
         "change",
         browserSync.reload
     );
